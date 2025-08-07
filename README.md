@@ -6,11 +6,7 @@
 
 # 💻 Tech Stack:
 cuman bisa ngetik
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=2000&pause=500&color=00FF41&background=00000000&center=true&width=550&lines=Yang+penting+bisa+ngetik;Halo+para+perancang+sistem)](https://git.io/typing-svg)
-
-![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg)
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
