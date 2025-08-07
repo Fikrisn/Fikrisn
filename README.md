@@ -8,9 +8,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C98CF&center=true&vCenter=true&width=435&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya" alt="Typing SVG" />
 </div>
-
 #
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
