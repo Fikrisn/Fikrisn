@@ -8,7 +8,7 @@ cuman bisa ngetik
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Yang+penting+ngetik;Halo+para+perancang+sistem" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Yang+penting+ngetik+dan+berjuang;Halo+para+perancang+sistem+informasi" alt="Typing SVG" />
   </a>
 </p>
 
