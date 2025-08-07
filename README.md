@@ -5,7 +5,6 @@
 🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories! 😊<br>
 
 # 💻 Tech Stack:
-cuman bisa ngetik
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=2000&pause=500&color=00FF41&background=00000000&center=true&width=550&lines=Yang+penting+bisa+ngetik;Halo+para+perancang+sistem)](https://git.io/typing-svg)
 # 📊 GitHub Stats:
 <div align="center">
