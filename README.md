@@ -6,9 +6,11 @@
 # 💻 Tech Stack:
 cuman bisa ngetik
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Yang+penting+ngetik;Halo+para+perancang+sistem)](https://git.io/typing-svg)
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Yang+penting+ngetik;Halo+para+perancang+sistem" alt="Typing SVG" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 <div align="center">
