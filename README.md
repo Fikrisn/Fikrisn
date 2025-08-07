@@ -6,6 +6,10 @@
 # 💻 Tech Stack:
 cuman bisa ngetik
 
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Yang+penting+ngetik;Halo+para+perancang+sistem)](https://git.io/typing-svg)
+</div>
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
@@ -20,17 +24,6 @@ cuman bisa ngetik
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fkr_sn)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikrisn&theme=react-dark)](https://github.com/Fikrisn)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Fikrisn&color=brightgreen&style=flat-square&label=Profile+Views)
-## 😄 Random Dev Humor
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-![Snake animation](https://github.com/Fikrisn/Fikrisn/blob/output/github-contribution-grid-snake.svg)
-## 🔥 My Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fikrisn&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Halo+para+perancang+sistem)](https://git.io/typing-svg)
-![Metrics](https://metrics.lecoq.io/Fikrisn?template=classic&config.timezone=Asia%2FJakarta)
-## ☕ Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Fikrisn)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fikrisn&icon=0&color=0)](https://visitcount.itsvg.in)
