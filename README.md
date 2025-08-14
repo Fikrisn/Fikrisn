@@ -6,7 +6,13 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=2C98CF&center=true&vCenter=true&width=900&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semangat+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project+😗;Kalau+Capek+Kan+Ada+AI+Jangan+Malu+Untuk+Gunakannya+🤭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FF6B6B&center=true&vCenter=true&width=900&lines=Cuman+Bisa+Mengetik" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=4ECDC4&center=true&vCenter=true&width=900&lines=Halo+Para+Suhu+Mohon+Bimbingannya" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=45B7D1&center=true&vCenter=true&width=900&lines=Semangat+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFA07A&center=true&vCenter=true&width=900&lines=Kalau+Capek+Kan+Ada+AI+Jangan+Malu+Untuk+Gunakannya" alt="Typing SVG" />
 </div>
 
 # 📊 GitHub Stats:
