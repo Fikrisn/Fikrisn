@@ -6,7 +6,7 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C98CF&center=true&vCenter=true&width=435&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semoga+Untuk+kalian+Yang+Sedang+Menegerjakan+Project😗" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C98CF&center=true&vCenter=true&width=500&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semoga+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project" alt="Typing SVG" />
 </div>
 
 # 📊 GitHub Stats:
