@@ -2,7 +2,7 @@
 🗝️ Hey there i am using Github, I'm Moch Fikri Setiawan.<br>
 🏛️ Student at Politeknik Negeri Malang, majoring in Business Information Systems.<br>
 💻 Currently, I'm diving deeper into the world of coding to enhance my skills in software development, particularly in building web applications and integrating modern technologies.<br>
-🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories! 😊<br>
+🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories!! 😊<br>
 
 # 💻 Tech Stack:
 <div align="center">
