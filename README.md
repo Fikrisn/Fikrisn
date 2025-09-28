@@ -24,7 +24,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhfkrsn/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fkr_sn)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikrisn&theme=react-dark)](https://github.com/Fikrisn)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikrisn&theme=midnight-purple)](https://github.com/Fikrisn)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fikrisn&icon=0&color=0)](https://visitcount.itsvg.in)
