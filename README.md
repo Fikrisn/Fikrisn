@@ -11,7 +11,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fikrisn&theme=react&hide_border=false&include_all_commits=true&count_private=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=fikrisn&theme=midnight-purple&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
