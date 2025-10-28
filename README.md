@@ -4,16 +4,18 @@
 💻 Currently, I'm diving deeper into the world of coding to enhance my skills in software development, particularly in building web applications and integrating modern technologies.<br>
 🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories!! 😊<br>
 
-# 💻 Tech Stack:
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semangat+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project+😗;Kalau+Capek+Kan+Ada+AI+Jangan+Malu+Untuk+Gunakannya+🤭;Love+Untuk+Kalian+Semua;🥰+❤️+😗+❤‍🔥+❤️+❤‍🔥+😗+❤️+🥰" alt="Typing SVG" />
-</div>
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fikrisn&theme=midnight-purple&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  # 💻 Tech Stack:
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semangat+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project+😗;Kalau+Capek+Kan+Ada+AI+Jangan+Malu+Untuk+Gunakannya+🤭;Love+Untuk+Kalian+Semua;🥰+❤️+😗+❤‍🔥+❤️+❤‍🔥+😗+❤️+🥰" alt="Typing SVG" />
+  </div>
+  
+  # 📊 GitHub Stats:
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=fikrisn&theme=midnight-purple&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrisn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
