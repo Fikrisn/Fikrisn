@@ -9,8 +9,6 @@
 
 # 💻 Tech Stack
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semangat+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project+😗;Kalau+Capek+Kan+Ada+AI+Jangan+Malu+Untuk+Gunakannya+🤭;Love+Untuk+Kalian+Semua;🥰+❤️+😗+❤‍🔥+❤️+❤‍🔥+😗+❤️+🥰" alt="Typing SVG" />
-
-<hr />
   
   # 📊 GitHub Stats:
   <div align="center">
