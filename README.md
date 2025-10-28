@@ -4,10 +4,6 @@
 💻 Currently, I'm diving deeper into the world of coding to enhance my skills in software development, particularly in building web applications and integrating modern technologies.<br>
 🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories!! 😊<br>
 
-# 🌐 Portfolio Website
-Check out my portfolio here:  
-👉 [fikrisn.github.io](https://fikrisn.github.io)
-
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semangat+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project+😗;Kalau+Capek+Kan+Ada+AI+Jangan+Malu+Untuk+Gunakannya+🤭;Love+Untuk+Kalian+Semua;🥰+❤️+😗+❤‍🔥+❤️+❤‍🔥+😗+❤️+🥰" alt="Typing SVG" />
@@ -27,6 +23,7 @@ Check out my portfolio here:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fikrismksore@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhfkrsn/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fkr_sn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fikrisn.github.io-blue?style=flat&logo=google-chrome)](https://fikrisn.github.io)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikrisn&theme=react-dark)](https://github.com/Fikrisn)
 
