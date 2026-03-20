@@ -1,5 +1,5 @@
 ![Animated Header](https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,100:E0E0E0&text=Moch%20Fikri%20Setiawan&fontSize=40&fontAlignY=40&desc=Business%20Information%20Systems%20Student&descAlignY=55&descAlign=50&fontColor=333333) 
-🗝️ Hey there i am using Github, I'm FKRDEV..<br> 🏛️ Student at Politeknik Negeri Malang, majoring in Business Information Systems.<br> 💻 Currently, I'm diving deeper into the world of coding to enhance my skills in software development, particularly in building web applications and integrating modern technologies.<br> 🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories!! 😊<br>
+🗝️ Hey there i am using Github, I'm FKRDEV.<br> 🏛️ Student at Politeknik Negeri Malang, majoring in Business Information Systems.<br> 💻 Currently, I'm diving deeper into the world of coding to enhance my skills in software development, particularly in building web applications and integrating modern technologies.<br> 🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories!! 😊<br>
 <div align="center">
 
 # 💻 Tech Stack
