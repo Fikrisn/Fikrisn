@@ -2,7 +2,7 @@
 🗝️ Hey there i am using Github, I'm FKRDEV.<br> 🏛️ Student at Politeknik Negeri Malang, majoring in Business Information Systems.<br> 💻 Currently, I'm diving deeper into the world of coding to enhance my skills in software development, particularly in building web applications and integrating modern technologies.<br> 🚀 I enjoy learning new things and exploring innovative solutions to solve real-world problems. Feel free to connect with me and check out my repositories!! 😊<br>
 <div align="center">
 
-# 💻 Tech Stack
+# 💻 Tech Staaack
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Cuman+Bisa+Mengetik;Halo+Para+Suhu+Mohon+Bimbingannya;Semangat+Untuk+Kalian+Yang+Sedang+Mengerjakan+Project+😗;Kalau+Capek+Kan+Ada+AI+Jangan+Malu+Untuk+Gunakannya+🤭;Love+Untuk+Kalian+Semua;🥰+❤️+😗+❤‍🔥+❤️+❤‍🔥+😗+❤️+🥰" alt="Typing SVG" />
   
   # 📊 GitHub Stats:
